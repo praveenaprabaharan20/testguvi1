@@ -1,9 +1,9 @@
 a + b
 a - b
 
-hello
+heo
 hi
 guvi
 
-a * b
+a ) b
 a % b 
